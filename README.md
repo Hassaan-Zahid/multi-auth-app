@@ -20,7 +20,7 @@ Make sure you have the following software installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/laravel-multi-auth-courses.git
+   https://github.com/Hassaan-Zahid/multi-auth-app.git
 
 
 
@@ -32,7 +32,7 @@ composer install && npm install && npm run dev<br>
 cp .env.example .env<br>
 5. Generate application key:<br>
 php artisan key:generate<br>
-6. Configure your database connection in the .env file:
+6. Configure your database connection in the .env file:<br>
 DB_CONNECTION=mysql<br>
 DB_HOST=127.0.0.1<br>
 DB_PORT=3306<br>
